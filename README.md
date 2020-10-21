@@ -5,7 +5,7 @@
 <h3 align='center'><samp><strong>I'M HARDIK KUMAR</strong></samp></h3> 
 
 <p align='center'>
-A passionate Android & iOS as well as Web UI Developer using Flutter with an immense curiosity to learn about the latest Flutter and Dart updates.
+A passionate App & Web Developer using Flutter with an immense curiosity to learn about the latest Flutter and Dart updates.
 <p align='center'>
 Currently learning & working on Artificial Intelligence & Machine Learning.
 </p>
