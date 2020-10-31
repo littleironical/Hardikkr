@@ -18,7 +18,7 @@ Currently learning & working on Artificial Intelligence & Machine Learning.
 <a href="https://github.com/Hardikkr"><img src="https://www.flaticon.com/svg/static/icons/svg/724/724933.svg" height=26 width=26></a>
 <a href="https://www.instagram.com/kr_hardik"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733614.svg" height=26 width=26></a>
 <a href="https://t.me/Hardikkr"><img src="https://www.flaticon.com/svg/static/icons/svg/1933/1933005.svg" height=26 width=26></a>
-<a href="https://stackoverflow.com/users/13050987/hardik-kumar"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111690.svg" height=26 width=26></a>
+<a href="https://stackoverflow.com/users/13050987/hardik-kumar?tab=profile"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111690.svg" height=26 width=26></a>
 <a href="https://play.google.com/store/apps/details?id=com.kumarhardik.obliqueapp"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111473.svg" height=26 width=26></a>
 <img src="https://s8.gifyu.com/images/055bf03606ceb15f1b.gif" height=55 width=100>
 </p>
