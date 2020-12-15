@@ -1,3 +1,23 @@
+<!--![banner4294f74ab95291de.png](https://s8.gifyu.com/images/banner4294f74ab95291de.png)-->
+
+<img src="https://s8.gifyu.com/images/profile_banner.png" width=100%>
+
+<!--
+### Hello I am Hardik kumar
+A passionate App & Web Developer using Flutter with an immense curiosity to learn about the latest Flutter and Dart updates.
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/Hardikkr"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733617.svg" height=26 width=26></a>
+<a href="https://twitter.com/tweet_Hardikkr"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733635.svg" height=26 width=26></a>
+<a href="https://github.com/Hardikkr"><img src="https://www.flaticon.com/svg/static/icons/svg/724/724933.svg" height=26 width=26></a>
+<a href="https://www.instagram.com/kr_hardik"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733614.svg" height=26 width=26></a>
+<a href="https://t.me/Hardikkr"><img src="https://www.flaticon.com/svg/static/icons/svg/1933/1933005.svg" height=26 width=26></a>
+<a href="https://stackoverflow.com/users/13050987/hardik-kumar?tab=profile"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg" height=26 width=26></a>
+<a href="https://play.google.com/store/apps/details?id=com.kumarhardik.obliqueapp"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111473.svg" height=26 width=26></a>
+<img src="https://s8.gifyu.com/images/055bf03606ceb15f1b.gif" height=55 width=100>
+</p>
+<br>
+
 ><h3 align='center'>HEY THERE</h3>
 
 <img align='left' src="https://s8.gifyu.com/images/01872232cb15b1b5c3.gif" height=150 width=150>
